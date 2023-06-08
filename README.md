@@ -1,4 +1,4 @@
-# Deep-Learning-Coursera-Specialization-(2023)
+# Deep-Learning-Coursera-Specialization-June2023
 
 🚫📝 Hey there! Please avoid copying the code exactly as it is, as it's always great to put your own spin on things.
 
