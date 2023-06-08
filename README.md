@@ -1,6 +1,7 @@
 # Deep-Learning-Coursera-Specialization
 
-🚫📝 Hey there! Please avoid copying the code exactly as it is, as it's always great to put your own spin on things. 
+🚫📝 Hey there! Please avoid copying the code exactly as it is, as it's always great to put your own spin on things.
+
 Trying things out and understand it on your own leads to genuine learning and growth. 😉 
 
 Give yourself a go! 💪
